@@ -1,2 +1,3 @@
-Buna ziua!
-Maine mai facem exercitii
+Hi!
+
+This is Alex playing around with GIT
